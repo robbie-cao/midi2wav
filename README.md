@@ -30,4 +30,8 @@ If you want the voice quality of the Microsoft MIDI Synth, then yeah, just plug 
 
 - http://midi2wav.com/convert-midi-to-wav-mp3.html
 - https://social.msdn.microsoft.com/Forums/en-US/d1703423-ba7b-49a8-bd92-9a3925170421/convert-midi-to-wav-or-wma?forum=vblanguage
+- https://en.wikipedia.org/wiki/Software_synthesizer
+- http://www.fluidsynth.org
 - http://midi2wav.com
+- http://csound.github.io
+- https://github.com/csound/csound
